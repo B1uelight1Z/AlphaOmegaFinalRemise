@@ -31,3 +31,4 @@ sysinfo.txt
 
 # Plastic / Unity Version Control
 .plastic/
+mono_crash*.json
